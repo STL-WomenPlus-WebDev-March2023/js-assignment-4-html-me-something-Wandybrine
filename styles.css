@@ -1,1 +1,79 @@
 /* Write your CSS here! */
+.header {
+    padding: 60px;
+    text-align: center;
+    background: pink;
+    color: white;
+    margin-bottom: 50px;
+  }
+
+  article {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+ h4 {
+    font-size: 80px;
+    z-index: 0;
+    margin-top: 10px;
+    text-align: left;
+    color: pink;
+    margin-left: 150px;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+
+  h2 {
+    font-size: 45px;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 30px;
+    color: #cb416b;
+  }
+
+  p {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+  }
+
+  img {
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto; */
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+    border-radius: 8px;
+  }
+
+  #youngBC {
+    margin-top: -135px;
+    margin-left: 200px;
+    z-index: 99;
+  }
+
+  #perrin, #willow, #loial {
+    margin-top: -135px;
+    margin-left: 100px;
+    z-index: 99;
+  }
+
+  #oldBC {
+    margin-left: -120px;
+    z-index: 100;
+  }
+
+
+
+  footer {
+    padding: 60px;
+    text-align: center;
+    background: #cb416b;
+    color: white;
+    font-size: 16px;
+  }
